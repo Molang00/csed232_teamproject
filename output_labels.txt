@@ -1,0 +1,10 @@
+hamburger
+steak
+risotto
+chicken
+sushi
+icecream
+spaghetti
+ramen
+tiramisu
+pizza
